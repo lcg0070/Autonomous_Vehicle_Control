@@ -1,0 +1,7 @@
+.idea
+slprj
+
+*build*
+
+*.asv
+*.slxc
